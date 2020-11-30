@@ -1,0 +1,8 @@
+{
+  "name": "Web MS3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a49e130e"
+}
